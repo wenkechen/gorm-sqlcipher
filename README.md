@@ -6,7 +6,7 @@
 
 ```go
 import (
-  "gorm.io/driver/sqlite"
+  "github.com/wenkechen/gorm-sqlcipher"
   "gorm.io/gorm"
 )
 
